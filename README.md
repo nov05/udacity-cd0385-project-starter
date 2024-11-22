@@ -9,12 +9,12 @@
 
 * Reviewer note
 
-Congratulations on completing the **Predict Bike Sharing Demand with AutoGluon** project. It was a nice experience reviewing your project. You have demonstrated good understanding in using the tool AutoGluon. Good luck with the projects ahead.
+  Congratulations on completing the **Predict Bike Sharing Demand with AutoGluon** project. It was a nice experience reviewing your project. You have demonstrated good understanding in using the tool AutoGluon. Good luck with the projects ahead.
 
-Here are some good articles on AutoGluon:
+  Here are some good articles on AutoGluon:
 
-* Getting Started with AutoML and AWS AutoGluon https://www.philschmid.de/getting-started-with-automl-and-aws-autogluon
-* Amazon’s AutoGluon helps developers deploy deep learning models with just a few lines of code https://www.amazon.science/amazons-autogluon-helps-developers-get-up-and-running-with-state-of-the-art-deep-learning-models-with-just-a-few-lines-of-code
-* AutoGluon-Tabular: Robust and Accurate AutoML for Structured Data https://arxiv.org/abs/2003.06505
-* AutoGluon: A revolutionary framework for landslide hazard analysis https://www.sciencedirect.com/science/article/pii/S2666592121000305    
+  * Getting Started with AutoML and AWS AutoGluon https://www.philschmid.de/getting-started-with-automl-and-aws-autogluon
+  * Amazon’s AutoGluon helps developers deploy deep learning models with just a few lines of code https://www.amazon.science/amazons-autogluon-helps-developers-get-up-and-running-with-state-of-the-art-deep-learning-models-with-just-a-few-lines-of-code
+  * AutoGluon-Tabular: Robust and Accurate AutoML for Structured Data https://arxiv.org/abs/2003.06505
+  * AutoGluon: A revolutionary framework for landslide hazard analysis https://www.sciencedirect.com/science/article/pii/S2666592121000305    
 

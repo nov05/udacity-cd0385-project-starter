@@ -15,7 +15,7 @@
 
 * There are no missing values, so there's no need for data imputation.
 * There is a datetime column, which is usually transformed into separate columns.  
-* The "casual" and "registered" columns add up to the target "count", which suggests that performance might improve by creating two models for the same dataset—one using "casual" and the other using "registered" — and then adding their predicted counts together as the result. However, this approach didn't work.
+* The "casual" and "registered" columns add up to the target "count", which suggests that performance might improve by creating two models for the same dataset—one using "casual" and the other using "registered" — and then adding their predicted counts together as the result. However, this approach didn't work (got a score of 0.45758).  
 * There are some alerts given by [the Ydata profiling report](https://nov05.github.io/udacity-cd0385-project-starter/project/ydata_profiling_report.html). 
     * High correlation between features can lead to multicollinearity, which can make the model's coefficients unstable. I could remove or combine the highly correlated features, or use dimensionality reduction techniques like Principal Component Analysis (PCA) to reduce the impact of multicollinearity.   
     * AutoGluon likely handles imbalanced data and other alerts effectively.   
